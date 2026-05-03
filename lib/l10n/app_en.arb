@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "appTitle": "Kitchen OS",
+
+  "profileFitProPlanActive": "Fit Pro Plan • Active",
+  "edit": "Edit",
+  "logout": "Logout",
+  "appVersion": "Kitchen OS v1.0.0 • Made with love in India",
+
+  "sectionSubscription": "SUBSCRIPTION",
+  "sectionPayments": "PAYMENTS",
+  "sectionAccount": "ACCOUNT",
+  "sectionSupport": "SUPPORT",
+
+  "mySubscription": "My Subscription",
+  "myOrders": "My Orders",
+  "billingHistory": "Billing History",
+
+  "paymentMethods": "Payment Methods",
+  "walletCredits": "Wallet & Credits",
+
+  "addresses": "Addresses",
+  "dietaryPreferences": "Dietary Preferences",
+  "referralProgram": "Referral Program",
+  "notifications": "Notifications",
+
+  "helpCenter": "Help Center",
+  "aboutKitchen": "About Kitchen",
+  "rateApp": "Rate App",
+
+  "logoutTitle": "Logout?",
+  "logoutMessage": "You will need to sign in again to use the app.",
+  "cancel": "Cancel",
+  "confirm": "Logout"
+}

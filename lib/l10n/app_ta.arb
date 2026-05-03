@@ -1,0 +1,35 @@
+{
+  "@@locale": "ta",
+  "appTitle": "கிட்சன் OS",
+
+  "profileFitProPlanActive": "ஃபிட் ப்ரோ திட்டம் • செயலில்",
+  "edit": "திருத்து",
+  "logout": "வெளியேறு",
+  "appVersion": "கிட்சன் OS v1.0.0 • இந்தியாவில் அன்புடன் உருவாக்கப்பட்டது",
+
+  "sectionSubscription": "சந்தா",
+  "sectionPayments": "கட்டணங்கள்",
+  "sectionAccount": "கணக்கு",
+  "sectionSupport": "ஆதரவு",
+
+  "mySubscription": "என் சந்தா",
+  "myOrders": "என் ஆர்டர்கள்",
+  "billingHistory": "பில்லிங் வரலாறு",
+
+  "paymentMethods": "கட்டண முறைகள்",
+  "walletCredits": "வாலட் & கிரெடிட்",
+
+  "addresses": "முகவரிகள்",
+  "dietaryPreferences": "உணவு விருப்பங்கள்",
+  "referralProgram": "பரிந்துரை திட்டம்",
+  "notifications": "அறிவிப்புகள்",
+
+  "helpCenter": "உதவி மையம்",
+  "aboutKitchen": "சமையலறை பற்றி",
+  "rateApp": "ஆப் மதிப்பீடு",
+
+  "logoutTitle": "வெளியேற?",
+  "logoutMessage": "ஆப்-ஐப் பயன்படுத்த மீண்டும் உள்நுழைய வேண்டும்.",
+  "cancel": "ரத்து",
+  "confirm": "வெளியேறு"
+}
